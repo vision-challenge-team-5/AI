@@ -37,7 +37,7 @@ Ao Wang, Hui Chen, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, and Guiguang Din
   <img src="./md_image/crack_ex1.jpg" width=25%>
   <img src="./md_image/crack_ex2.jpg" width=25%>
   <img src="./md_image/crack_ex3.jpg" width=25%>
-
+</p>
 ## 모델 아키텍처
 
 - **사용 모델**: YOLOv10n
@@ -108,3 +108,8 @@ pip install -e .
 flask_web 디렉토리로 이동
 python app.py
 ```
+
+
+<p align="center">
+  <img src="./\md_image/스크린샷 2024-11-16 044040.png" width=25%>
+</p>
