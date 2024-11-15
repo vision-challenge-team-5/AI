@@ -109,7 +109,7 @@ flask_web 디렉토리로 이동
 python app.py
 ```
 
-
-<p align="center">
+- **탐지 예시** :
+<p align="left">
   <img src="./\md_image/스크린샷 2024-11-16 044040.png" width=25%>
 </p>
