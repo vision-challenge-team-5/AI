@@ -1,6 +1,7 @@
 # 태양광 패널 오염 감지 시스템
 
-**SDGs #7 : Affordable and Clean Energy<br/>**
+**Solar Panel Contamination Detection System**</br>
+**SDGs #7 : Affordable and Clean Energy**
 
 ### 기술 스택
 
@@ -38,6 +39,7 @@ Ao Wang, Hui Chen, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, and Guiguang Din
   <img src="./md_image/crack_ex2.jpg" width=25%>
   <img src="./md_image/crack_ex3.jpg" width=25%>
 </p>
+
 ## 모델 아키텍처
 
 - **사용 모델**: YOLOv10n
@@ -111,5 +113,5 @@ python app.py
 
 - **탐지 예시** :
 <p align="left">
-  <img src="./\md_image/스크린샷 2024-11-16 044040.png" width=25%>
+  <img src="./md_image/스크린샷 2024-11-16 044040.png" width=25%>
 </p>
