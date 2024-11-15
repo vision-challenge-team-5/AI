@@ -1,7 +1,6 @@
-# 태양광 패널 오염 감지 시스템
+# 태양광 패널 오염 감지 시스템 (Solar Clear)
 
-**Solar Panel Contamination Detection System**</br>
-**SDGs #7 : Affordable and Clean Energy**
+SDGs #7 : Affordable and Clean Energy
 
 ### 기술 스택
 
@@ -33,14 +32,14 @@ Ao Wang, Hui Chen, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, and Guiguang Din
   - Test : 7,595장
   - Validation : 404장
 - **손상 종류**: 3개 (Bird-drop, Crack, Dusty)
-- **예시 이미지**
+- **📷 예시 이미지**
 <p align="center">
   <img src="./md_image/crack_ex1.jpg" width=25%>
   <img src="./md_image/crack_ex2.jpg" width=25%>
   <img src="./md_image/crack_ex3.jpg" width=25%>
 </p>
 
-## 모델 아키텍처
+## ⚙️ 모델 아키텍처
 
 - **사용 모델**: YOLOv10n
 - **하이퍼파라미터 설정**:
@@ -89,7 +88,7 @@ Ao Wang, Hui Chen, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, and Guiguang Din
 
 ---
 
-## 사용 방법
+## 🚀 사용 방법
 
 
 
@@ -111,7 +110,7 @@ flask_web 디렉토리로 이동
 python app.py
 ```
 
-- **탐지 예시** :
+- **🔎 탐지 예시** :
 <p align="left">
   <img src="./md_image/스크린샷 2024-11-16 044040.png" width=25%>
 </p>
